@@ -197,7 +197,7 @@ jobs:
 
           Write-Host "Address: $env:TAILSCALE_IP"
 
-          Write-Host "Username: Katie"
+          Write-Host "Username: RDP"
 
           Write-Host "Password: $(echo $env:RDP_CREDS)"
 
